@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "883142288503",
+    "project_id": "fastlanedemo-6ae3b",
+    "storage_bucket": "fastlanedemo-6ae3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883142288503:android:d5e727ef5e680616c41272",
+        "android_client_info": {
+          "package_name": "com.naman.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883142288503-2qk88m28n1lntj7mvuh6k533si8lfp17.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs8ko3hYVtVLuwxAk4fd-vHdo3ein5Kr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883142288503-2qk88m28n1lntj7mvuh6k533si8lfp17.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
