@@ -14,7 +14,7 @@ class HomeScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Users"),
+        title: const Text("USERS"),
         automaticallyImplyLeading: false,
         centerTitle: true,
         actions: [
